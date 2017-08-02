@@ -1,0 +1,12 @@
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\Data.exe.config
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\Data.exe
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\Data.pdb
+D:\ambi\Dummy\DummyApplication\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\ambi\Dummy\DummyApplication\Data\obj\Debug\Data.exe
+D:\ambi\Dummy\DummyApplication\Data\obj\Debug\Data.pdb
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\Core.exe
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\Core.pdb
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\EntityFramework.dll
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\EntityFramework.xml
+D:\ambi\Dummy\DummyApplication\Data\bin\Debug\EntityFramework.SqlServer.xml
