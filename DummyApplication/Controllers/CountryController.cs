@@ -12,7 +12,7 @@ namespace DummyApplication.Controllers
     public class CountryController : Controller
     {
         private readonly IRepository<Tbl_Country, string> _countryrepository;
-     
+
         /// <summary>
         /// Create a new instance of the AIPP.SSSDataBrowser.Api.Controllers.InstrumentController class
         /// </summary>
@@ -25,6 +25,7 @@ namespace DummyApplication.Controllers
         // GET: Country
         public ActionResult Create(CountryModel country, string id = null)
         {
+            //dummy application
             return View();
         }
         [HttpPost]
