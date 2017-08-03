@@ -27,6 +27,7 @@ namespace DummyApplication.Controllers
         {
             //dummy application123
             //Branch 1
+            //New Branch 2
             return View();
         }
         [HttpPost]
